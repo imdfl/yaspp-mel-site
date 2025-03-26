@@ -12,6 +12,6 @@
     "build": "cd yaspp && yarn build",
     "start": "cd yaspp && yarn start",
     "save-yaspp": "rm -rf yaspp/* yaspp/.*",
-    "restore-yaspp": "echo stub > yaspp/yaspp.stub"
+    "restore-yaspp": "echo \"Never delete and always commit this file\" > yaspp/README.md"
   }
 }
