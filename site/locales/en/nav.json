@@ -1,6 +1,8 @@
 {
-	"items:articles:1:label": "First Article",
-	"items:articles:2:label": "Second Article",
-	"items:pages:about:desc": "About this site",
-	"links:issues": "https://github.com/imdfl/create-yaspp/issues"
+	"items:articles:som:intro:label": "Preface",
+	"items:articles:som:bio:label": "Mel Kaye – CV",
+	"items:articles:som:missingBits:label": "Mel's Hack – The Missing Bits",
+	"items:pages:about:desc": "About Mel's Loop",
+	"items:pages:resources:desc": "Web Resources for The Story of Mel",
+	"links:issues": "https://github.com/tomerlichtash/mels-loop/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=Contact%20form%20error&labels=bug"
 }
