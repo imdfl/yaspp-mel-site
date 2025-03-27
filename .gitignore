@@ -1,0 +1,5 @@
+node_modules
+**/*.map
+/yaspp/**/*
+!yaspp/README.md
+**/*.log

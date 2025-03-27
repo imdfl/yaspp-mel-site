@@ -1,0 +1,23 @@
+{
+	"content": {
+		"root": "site/content",
+		"index": "docs/the-story-of-mel/codex"
+	},
+	"nav": {
+		"index": "site/nav.json"
+	},
+	"locale": {
+		"root": "site/locales",
+		"langs": ["he", "en"],
+		"pages": {
+			"*": ["authors", "glossary"]
+		}
+	},
+	"style": {
+		"root": "site/styles",
+		"sheets": "mel-site.scss"
+	},
+	"assets": {
+		"root": "site/assets"
+	}
+}
